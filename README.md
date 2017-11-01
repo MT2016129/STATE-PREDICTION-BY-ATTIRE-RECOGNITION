@@ -13,9 +13,13 @@ Initially to train our model we have collected images from the following states 
 
 # Features and States
 Module 1 : collar detection : Haryana
+
 Module 2 : upper body dress color detection: Lucknow (light, dull color, remaining states have bright color dresses)
+
 Module 3 : silver jewellery covering major forehead : Kashmir
+
 Module 4 : ratio of length of upper body dress to body height : punjab (patiala with short kurta) 
+
 else: colorful Ghaghra choli : Gujarat
 
 Digging deeper into dataset for states ,we found that each state had one unique feature that could help detect that state from others (One Vs rest) and thus in order to learn various techniques and add on our own logics we decided to work on these features. For predicting state of given input we decided to follow the steps shown in below flow chart. 
