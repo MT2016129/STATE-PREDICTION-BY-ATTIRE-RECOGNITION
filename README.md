@@ -5,10 +5,15 @@ Every country has its own cultural costumes. Even in India every state follows d
 One of the ways by which we can distinguish states from each other is from its traditional attire. From the current work we would like to predict the state/region from the image, depending upon what tradition dress person is wearing. 
 
 Initially to train our model we have collected images from the following states as our dataset: 
+
 • Gujarat (Ghagara Choli)
+
 • Haryana (Daaman, Chunder and Kurti)
+
 • Jammu and Kashmir (Burkha, Pheran and Scarf on head (called Taranga))
+
 • Uttar Pradesh (Chikkan work)
+
 • Punjab (Punjabi salwar suit)
 
 # Features and States
